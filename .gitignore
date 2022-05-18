@@ -1,0 +1,8 @@
+db.sqlite3
+DiabetesBackEnd/__pycache__
+DiabetesData_api/__pycache__
+Users/__pycache__
+DiabetesData_api/migrations
+Users/migrations
+DiabetesData_api/PushNotification/__pycache__
+
