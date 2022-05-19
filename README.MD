@@ -4,4 +4,6 @@ Mobile Application design and development aiming at empowering adults with T2DM 
 
 # Back End
 
+This repo, includes source code of the Back End Server  developed with Django.
+
 
